@@ -1,0 +1,1 @@
+### Validação de CPF simples em JavaScript utilizando prototype
